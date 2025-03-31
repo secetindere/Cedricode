@@ -1,2 +1,2 @@
-# Cedricode
-The new repository named Cedricode is a coding reposiroty.
+# Finans
+The new repository named Cedricode is a coding reposiroty with finans project
