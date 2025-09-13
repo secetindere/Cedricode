@@ -16,4 +16,5 @@ This project is for fun! This python project for people who likes text-based vid
 You see, There will be some other Fruit Clickers in the deep of Github but this one is Secetindere Edition.
 Which is a special edition for it!
 Warning!
-The code may only work in Visual Studio Code so make sure that you downloaded Python 3.10, or higher or VSC(Visual Studio Code)
+This game is still BETA and may work in Python 3.10 or higher or VSC(Visual Code Studio).
+Even if it works at VSC or Python 3.10 or higher, This game is controlled before the latest version.
