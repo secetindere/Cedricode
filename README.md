@@ -18,3 +18,9 @@ Which is a special edition for it!
 Warning!
 This game is still BETA and may work in Python 3.10 or higher or VSC(Visual Code Studio).
 Even if it works at VSC or Python 3.10 or higher, This game is controlled before the latest version.
+# Web And Style
+This project is for safer cars kid version. We have one tested which is Tesla Model S For Kids.
+You can open it from Visual Studio Code. It works! I will put the folder maybe.
+Warning!
+This project is really new! It maybe can't work on older versions of Google Chrome and Windows 11/10 via older.
+Its not checked if you can open this website from command prompt or other. Its only checked if it worked on VSC. Not VSC via Command Prompt or other...
