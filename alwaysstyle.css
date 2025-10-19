@@ -1,0 +1,34 @@
+/* Genel sayfa stili */
+body {
+    background-color: #f0f0f0; /* Sayfa arka plan rengi */
+    font-family: Arial, sans-serif; /* Yazı tipi */
+    padding: 20px;
+}
+
+/* Başlık stili */
+h1 {
+    color: #2c3e50; /* Metin rengi */
+    font-size: 36px; /* Yazı boyutu */
+    border: 3px solid #2980b9; /* Kenarlık */
+    padding: 10px;
+    text-align: center;
+}
+
+/* Paragraf stili */
+p {
+    color: #e74c3c; /* Metin rengi */
+    font-size: 18px; /* Yazı boyutu */
+    text-decoration: underline; /* Alt çizgi */
+    text-decoration-color: #3498db; /* Alt çizgi rengi */
+    border: 2px dashed #2ecc71; /* Kenarlık */
+    padding: 10px;
+    background-color: #ffffff; /* Arka plan rengi */
+}
+
+/* Link stili */
+a {
+    color: #9b59b6; /* Metin rengi */
+    text-decoration: underline; /* Alt çizgi */
+    text-decoration-color: #f1c40f; /* Alt çizgi rengi */
+    font-size: 20px; /* Yazı boyutu */
+}
