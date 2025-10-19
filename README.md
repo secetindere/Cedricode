@@ -24,3 +24,5 @@ You can open it from Visual Studio Code. It works! I will put the folder maybe.
 Warning!
 This project is really new! It maybe can't work on older versions of Google Chrome and Windows 11/10 via older.
 Its not checked if you can open this website from command prompt or other. Its only checked if it worked on VSC. Not VSC via Command Prompt or other...
+# More Advanced Webstyle
+Same as Web and Style.
