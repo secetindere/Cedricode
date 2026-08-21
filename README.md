@@ -34,3 +34,7 @@ This project is tested to work in Google Colab!
 This is my first full character design of The Hero Dusters 64. The characters file is the hero dusters 64 duster(thd64d.fbx). If you didn't know I was working on this game since the start of 2026/End of 2025. The first design was just a capsule. Then now this new version of the character being a blender design. It is disgusting due to it being my first blender use. 
 WARNING!
 This .fbx file only was tested in Unity 6.3 LTS!
+# Biology With Oink!
+This is one of my first Turkish projects using Comic Sans MS. Also I got help from Artificial Intellignce for the file and researched it! The files are Biyobiyo.css and Biyobiyo.html.
+WARNING!
+This file works on VSC only! And is for Chrome users. So it won't work on Opera, Edge and etc.
