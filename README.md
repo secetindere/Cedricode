@@ -10,7 +10,7 @@ You see Google is doing this same system... But there is people who are using ot
 So Our Password Manager can help!
 Warning!
 The code only works properly in Visual Studio Code. You need to press the top left "File" button and press the "Open File" button.
-You need to download both "password_manager.py" and "password.txt" files to make it work.
+You need to download both "password_manager.py" and "password.txt" files to make it work.You may wonder there is no "password.txt" and yes there is not anymore but we have a file called "password.txt.example" for setting it up!
 # FruitClicker
 This project is for fun! This python project for people who likes text-based video games.
 You see, There will be some other Fruit Clickers in the deep of Github but this one is Secetindere Edition.
