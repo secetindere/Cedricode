@@ -1,0 +1,125 @@
+/* ==========================================================================
+   BiyoEtik ve Bilim - Stil Dosyası (style.css)
+   ========================================================================== */
+
+:root {
+    --primary-color: #1a365d;       /* Koyu lacivert */
+    --accent-color: #2b6cb0;        /* Canlı mavi */
+    --pig-theme-bg: #fff5f5;        /* Domuz biyomedikal vurgu kutusu için hafif pembe/krem tonu */
+    --pig-theme-border: #feb2b2;    /* Vurgu kutusu kenarlığı */
+    --bg-color: #f7fafc;            /* Sayfa arka planı */
+    --card-bg: #ffffff;             /* Beyaz kart */
+    --text-color: #2d3748;          /* Metin rengi */
+    --text-muted: #718096;          /* İkincil metin */
+    --border-color: #e2e8f0;        /* Ayraçlar */
+    --shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+    --radius: 8px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Comic Sans MS', cursive;
+}
+
+body {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    line-height: 1.7;
+    font-size: 16px;
+}
+
+.container {
+    width: 90%;
+    max-width: 850px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+/* Header */
+.navbar {
+    background-color: var(--primary-color);
+    color: #ffffff;
+    padding: 35px 0;
+    box-shadow: var(--shadow);
+}
+
+.logo {
+    font-size: 2.2rem;
+    font-weight: 700;
+}
+
+.tagline {
+    font-size: 0.95rem;
+    color: #cbd5e0;
+    margin-top: 5px;
+}
+
+/* Makale Kartı */
+.content {
+    margin: 40px auto;
+}
+
+.article-card {
+    background-color: var(--card-bg);
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius);
+    padding: 35px;
+    box-shadow: var(--shadow);
+}
+
+.badge {
+    display: inline-block;
+    background-color: #ebf8ff;
+    color: #2b6cb0;
+    border: 1px solid #bee3f8;
+    font-size: 0.8rem;
+    font-weight: 600;
+    padding: 4px 12px;
+    border-radius: 20px;
+    margin-bottom: 15px;
+    text-transform: uppercase;
+}
+
+.article-card h2 {
+    color: var(--primary-color);
+    font-size: 1.8rem;
+    margin-bottom: 8px;
+}
+
+.date {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    margin-bottom: 20px;
+}
+
+/* Domuz Araştırması Vurgu Kutusu */
+.info-box {
+    background-color: var(--pig-theme-bg);
+    border-left: 4px solid var(--pig-theme-border);
+    padding: 20px;
+    margin: 25px 0;
+    border-radius: 4px;
+}
+
+.info-box h3 {
+    color: #9b2c2c;
+    font-size: 1.15rem;
+    margin-bottom: 8px;
+}
+
+.info-box p {
+    font-size: 0.98rem;
+    margin-bottom: 0;
+}
+
+/* Footer */
+footer {
+    background-color: #ffffff;
+    border-top: 1px solid var(--border-color);
+    text-align: center;
+    padding: 25px 0;
+    color: var(--text-muted);
+    font-size: 0.85rem;
+}
